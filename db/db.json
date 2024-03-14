@@ -79,14 +79,17 @@
   ],
   "burgers": [
     {
-      "id": "f847",
-      "nome": "fgdsdfg",
-      "carne": "Alcatra",
-      "pao": "3 Queijos",
+      "id": "48e7",
+      "nome": "Átila",
+      "carne": "Picanha",
+      "pao": "Italiano Branco",
       "opcionais": [
-        "Cheddar"
+        "Cheddar",
+        "Bacon",
+        "Tomate",
+        "Cebola roxa"
       ],
-      "status": "Solicitado"
+      "status": "Finalizado"
     }
   ]
 }
